@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SaurishParkar
-- 👀 I’m interested in Artificial Intelligence and Machine Learning 
-- 🌱 I’m currently pursuing a Diploma in Software Engineering
-- 💞 I’m looking for Graphic Design Projects
-- Educational Qualifications-Bachelor in Commerce from Mumbai University
+- 👀 I’m interested in UI/UX Design 
+- 🌱 I’m currently pursuing a Masters In Computer Applications
 - Hobbies and Passions-Reading Books and Playing Football
   
 
